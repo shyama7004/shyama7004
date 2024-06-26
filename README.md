@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hello 👋, I'm Shyama
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fancy GIF" style="width: 500px; height: 200px; border: 2px solid #e1e4e8; border-radius: 10px;"/>
+</div>
 
-<!--
-**shyama7004/shyama7004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2><strong>Software Developer | Competitive Programmer</strong></h2>
+</div>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer with a passion for creating innovative solutions to complex problems. I enjoy working with modern technologies and constantly strive to improve my skills.
+
+
+<div align="center">
+  <a href="https://github.com/shyama7004">
+    <img src="https://img.shields.io/github/followers/shyama7004?label=Follow&style=social" alt="Follow">
+  </a>
+  <a href="https://github.com/sponsors/shyama7004">
+    <img src="https://img.shields.io/badge/Sponsor-❤-red" alt="Sponsor">
+  </a>
+  <a href="https://www.linkedin.com/in/sssa23/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-Visit-green" alt="Website">
+  </a>
+</div>
+
+---
+
+## 🛠️ Skills
+
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## 🏆 Competitive Programming Handles
+
+![CodeChef](https://img.shields.io/badge/CodeChef-5122-6b5b95?style=for-the-badge)
+![Codeforces](https://img.shields.io/badge/Codeforces-6796-1f8acb?style=for-the-badge)
+![AtCoder](https://img.shields.io/badge/AtCoder-8300-0097e6?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-9106-ffa116?style=for-the-badge)
+
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td><strong>Institution</strong></td>
+    <td><strong>Degree</strong></td>
+    <td><strong>GPA</strong></td>
+    <td><strong>Year</strong></td>
+  </tr>
+  <tr>
+    <td>NIT Rourkela</td>
+    <td style="background-color: orange;">B.Tech Ceramics</td>
+    <td style="background-color: blue; color: white;">8.11/10</td>
+    <td style="background-color: cyan;">2023-2027</td>
+  </tr>
+</table>
+
+
+## 🚀 Projects
+
+- [Rapid Chess](#)
+- [Forge](#)
+- [Alien Invasion](#)
+- [JustPay](#)
+- [Note Maker](#)
