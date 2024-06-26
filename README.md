@@ -45,10 +45,10 @@ I am a software engineer with a passion for creating innovative solutions to com
 ## 🏆 Competitive Programming Handles
 
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-2122-6b5b95?style=for-the-badge)](https://www.codechef.com/users/your_codechef_handle)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2122-6b5b95?style=for-the-badge)](https://www.codechef.com/users/shyama7004)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1796-1f8acb?style=for-the-badge)](https://www.codechef.com/users/shyama7004)
 [![AtCoder](https://img.shields.io/badge/AtCoder-1300-0097e6?style=for-the-badge)](https://atcoder.jp/users/your_atcoder_handle)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4c8c4a?style=for-the-badge)](https://www.hackerrank.com/your_hackerrank_handle)
+[![HackerRank](https://img.shields.io/badge/HackerRank-4c8c4a?style=for-the-badge)](https://www.hackerrank.com/profile/sujatabisoyi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-2106-ffa116?style=for-the-badge)](https://leetcode.com/u/Shyamasharaya/)
 
 
