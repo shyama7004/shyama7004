@@ -47,7 +47,7 @@ I am a software engineer with a passion for creating innovative solutions to com
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-NA-6b5b95?style=for-the-badge)](https://www.codechef.com/users/shyama7004)
 [![Codeforces](https://img.shields.io/badge/Codeforces-NA-1f8acb?style=for-the-badge)](https://www.codechef.com/users/shyama7004)
-[![AtCoder](https://img.shields.io/badge/AtCoder-NA-0097e6?style=for-the-badge)](https://atcoder.jp/users/your_atcoder_handle)
+[![AtCoder](https://img.shields.io/badge/AtCoder-NA-0097e6?style=for-the-badge)](https://atcoder.jp/users/Shyama7004?contestType=algo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-NA-4c8c4a?style=for-the-badge)](https://www.hackerrank.com/profile/sujatabisoyi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-NA-ffa116?style=for-the-badge)](https://leetcode.com/u/Shyamasharaya/)
 
