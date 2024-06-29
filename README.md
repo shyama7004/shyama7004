@@ -73,8 +73,5 @@ I am a software engineer with a passion for creating innovative solutions to com
 
 ## 🚀 Projects
 
-- [Rapid Chess](#)
-- [Forge](#)
-- [Alien Invasion](#)
-- [JustPay](#)
-- [Note Maker](#)
+- [AudioZen](#)
+
