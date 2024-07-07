@@ -1,4 +1,4 @@
-# Hello 👋, I'm Shyama
+# Hello 👋, I'm Skreg
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fancy GIF" style="width: 500px; height: 200px; border: 2px solid #e1e4e8; border-radius: 10px;"/>
 </div>
