@@ -70,6 +70,7 @@ I am a software engineer with a passion for creating innovative solutions to com
   </tr>
 </table>
 
+![Profile views](https://komarev.com/ghpvc/?username=your-shyama7004&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 Projects
 
