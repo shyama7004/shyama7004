@@ -64,7 +64,7 @@ I am a software engineer with a passion for creating innovative solutions to com
   </tr>
   <tr>
     <td>NIT Rourkela</td>
-    <td style="background-color: orange;">B.Tech Ceramics</td>
+    <td style="background-color: orange;">B.Tech </td>
     <td style="background-color: blue; color: white;">8.11/10</td>
     <td style="background-color: cyan;">2023-2027</td>
   </tr>
@@ -73,7 +73,7 @@ I am a software engineer with a passion for creating innovative solutions to com
 ![Profile views](https://komarev.com/ghpvc/?username=your-shyama7004&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 Projects
-
+- [OpenCv Documentation](https://github.com/shyama7004/OpenCV-Personal-Documentation)
 - [AudioZen](https://github.com/shyama7004/AudioZen)
 - [TaskBee](https://github.com/shyama7004/TaskBee)
 
